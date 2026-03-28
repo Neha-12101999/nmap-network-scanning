@@ -18,5 +18,3 @@ nmap -O 192.168.1.1
 - Found active devices in network
 - Identified open ports and version
 - Detected OS
-
-- 
