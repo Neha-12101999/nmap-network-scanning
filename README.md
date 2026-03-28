@@ -16,5 +16,7 @@ nmap -O 192.168.1.1
 
 ##  Results
 - Found active devices in network
-- Identified open ports (80, 443, etc.)
-- Detected OS and services
+- Identified open ports and version
+- Detected OS
+
+- 
